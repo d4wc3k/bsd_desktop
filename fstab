@@ -1,0 +1,2 @@
+/dev/mirror/swap.eli	none	swap,ealgo=aes-xts,keylen=256,sectorsize=4096	sw	0	0
+proc 			/proc 	procfs 						rw 	0 	0
